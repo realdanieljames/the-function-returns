@@ -2,9 +2,37 @@
  * YOUR CODE HERE *
  ******************/
 
+let greeting = 'Hello';
+let sum = 0;
+let prod = 0;
 
+function greet(recognition) {
+  greeting = 'Hello ' + recognition;
+}
 
+function sumOfTwo(num1, num2) {
+  sum = num1 + num2;
+}
 
+function multiply(augment1, augment2, augment3) {
+  prod = augment1 * augment2 * augment3;
+}
+
+function returnWhatISay(noChange) {
+  return noChange;
+}
+
+function sayHi(hail) {
+  return 'Hello ' + hail + '!';
+}
+
+function divide(dividend, divisor) {
+  return dividend / divisor;
+}
+
+function remainder(remnant1, remnant2) {
+  return remnant1 % remnant2;
+}
 
 /*********************************************************************************************************************
 
