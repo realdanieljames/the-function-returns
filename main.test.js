@@ -33,7 +33,6 @@ function divide(dividend, divisor) {
 function remainder(remnant1, remnant2) {
   return remnant1 % remnant2;
 }
-
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
